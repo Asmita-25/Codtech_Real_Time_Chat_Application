@@ -1,5 +1,8 @@
-
-
+COMPANY: CODTECH IT SOLUTIONS 
+NAME: ASMITA RAJENDRA BANDAL 
+INTERN ID: CT08JIO DOMAIN: FRONT END DEVELOPMENT 
+DURATION: 4 WEEKS 
+MENTOR: NEELA SANTOSH KUMAR
 
 # WebSocket Server Implementation
 
@@ -83,3 +86,6 @@ socket.on('replay', (message) => {
     console.log('Received:', message);
 });
 ```
+
+Output: 
+
