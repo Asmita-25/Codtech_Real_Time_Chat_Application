@@ -64,4 +64,4 @@ socket.on('replay', (message) => {
 });
 
 Output:
-
+![Image](https://github.com/user-attachments/assets/148b5e4d-c03e-48c3-a1e0-bbb0c8737146)
