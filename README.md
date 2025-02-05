@@ -62,4 +62,6 @@ socket.emit('message', {
 socket.on('replay', (message) => {
     console.log('Received:', message);
 });
+
 Output:
+![Image](https://github.com/user-attachments/assets/4605c2b7-97bc-4077-87d6-6158b657b4aa)
